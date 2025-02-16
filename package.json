@@ -24,5 +24,18 @@
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "typescript": "^5"
-  }
+  },
+  "description": "[![GitHub license](https://img.shields.io/github/license/alsiam/urFolio)](https://github.com/alsiam/urFolio/blob/main/LICENSE)\r [![GitHub stars](https://img.shields.io/github/stars/alsiam/urFolio)](https://github.com/alsiam/urFolio/stargazers)\r [![GitHub issues](https://img.shields.io/github/issues/alsiam/urFolio)](https://github.com/alsiam/urFolio/issues)\r [![GitHub forks](https://img.shields.io/github/forks/alsiam/urFolio)](https://github.com/alsiam/urFolio/network)",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsiam/urFolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsiam/urFolio/issues"
+  },
+  "homepage": "https://github.com/alsiam/urFolio#readme"
 }
